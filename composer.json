@@ -1,0 +1,8 @@
+{
+    "require": {
+        "keboola/csv": "^1.1",
+        "aws/aws-sdk-php": "^3",
+        "keboola/json-parser": "~1.0.0",
+        "tcdent/php-restclient": ">=0.1.4"
+    }
+}

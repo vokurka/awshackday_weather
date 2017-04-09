@@ -1,0 +1,6 @@
+{
+	"parameters": {
+		"output_bucket": "in.c-weather",
+		"url": "http://www.weather.gov.sg/wp-content/themes/wiptheme/page-functions/functions-forecast24hr-ajax.php"
+	}
+}
